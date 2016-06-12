@@ -1,0 +1,10 @@
+{
+    "logs": {
+        "level": "debug",
+        "handleExceptions": false
+    },
+    "server": {
+        "port": "3000",
+        "host": "0.0.0.0"
+    }
+}
